@@ -16,7 +16,7 @@
 |image::items/NetworkManager_InHand.jpg[300,300,role="left"]
 |===
 
-The network manager allows you to view detials of a network component.
+The network manager allows you to view details of a network component.
 
 When you take it in hands and look at a network component, you can left click to open the component debug window.
 This window will show you the UUID of the component, allows you to change and view the nick,
