@@ -75,7 +75,7 @@ count getAmount(string)
 
 To call such a function in Lua you simply need to get the Lua-Instance and call the member function in that table as method `:`.
 
-If you want to get a list of all member of the Lua instnace's functions and attributes, you can use the `string[] getMembers()` function.
+If you want to get a list of all member of the Lua instance's functions and attributes, you can use the `string[] getMembers()` function.
 
 === Signals
 
